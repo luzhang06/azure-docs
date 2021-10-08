@@ -83,7 +83,7 @@ Extract text, tables and key value pairs from invoices, sales receipts, ID docum
 4. Choose the file you would like to analyze from the below options:
 
     * A URL for an image of an invoice. You can use a [sample invoice document](https://raw.githubusercontent.com/Azure/azure-sdk-for-python/master/sdk/formrecognizer/azure-ai-formrecognizer/samples/sample_forms/forms/Invoice_1.pdf) for this quickstart.
-    * A URL for an image of a receipt. You can use a [sample ID document](https://raw.githubusercontent.com/Azure-Samples/cognitive-services-REST-api-samples/master/curl/form-recognizer/id-license.jpg) for this quickstart.
+    * A URL for an image of an ID document. You can use a [sample ID document](![image](https://user-images.githubusercontent.com/44625949/136572907-d02dd4a6-6a26-48bd-a793-b2523d69132e.png) for this quickstart.
     * A URL for an image of a receipt. You can use a [sample receipt image](https://raw.githubusercontent.com/Azure-Samples/cognitive-services-REST-api-samples/master/curl/form-recognizer/contoso-allinone.jpg) for this quickstart.
     * A URL for an image of a business card. You can use a [sample business card image](https://raw.githubusercontent.com/Azure/azure-sdk-for-python/master/sdk/formrecognizer/azure-ai-formrecognizer/samples/sample_forms/business_cards/business-card-english.jpg) for this quickstart.
 
